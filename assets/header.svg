@@ -1,0 +1,47 @@
+<svg width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#grad)" />
+
+  <!-- Stars -->
+  <circle cx="50" cy="20" r="1" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="150" cy="80" r="1.5" fill="white" opacity="0.6">
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="5s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="300" cy="40" r="1" fill="white" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="500" cy="70" r="1.2" fill="white" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="700" cy="30" r="1" fill="white" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Moving Line (Scanner effect) -->
+  <rect x="0" y="0" width="100%" height="2" fill="#00ffff" opacity="0.5" filter="url(#glow)">
+    <animate attributeName="y" values="0;100;0" dur="10s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="10s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Text (Optional, keeping it abstract mostly but adding small tech elements) -->
+  <path d="M0,50 Q200,100 400,50 T800,50" fill="none" stroke="#ff00ff" stroke-width="1" opacity="0.3">
+     <animate attributeName="d" values="M0,50 Q200,100 400,50 T800,50; M0,50 Q200,0 400,50 T800,50; M0,50 Q200,100 400,50 T800,50" dur="10s" repeatCount="indefinite" />
+  </path>
+</svg>

@@ -1,0 +1,39 @@
+import sys
+
+def create_header_svg(text, filename):
+    svg_content = f'''<svg width="600" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00ffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff00ff;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <text x="10" y="50" font-family="Verdana, sans-serif" font-size="30" font-weight="bold" fill="url(#grad)" filter="url(#glow)">
+    {text}
+  </text>
+</svg>'''
+
+    with open(filename, 'w') as f:
+        f.write(svg_content)
+    print(f"Created {filename}")
+
+if __name__ == "__main__":
+    headers = [
+        ("Tech Stack", "assets/header_tech.svg"),
+        ("GitHub Stats", "assets/header_stats.svg"),
+        ("Personal Interests", "assets/header_interests.svg"),
+        ("Connect with Me", "assets/header_connect.svg"),
+        ("Agentic AI Focus", "assets/header_ai.svg"),
+        ("Certifications", "assets/header_certs.svg")
+    ]
+
+    for text, filename in headers:
+        create_header_svg(text, filename)

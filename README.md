@@ -1,21 +1,108 @@
-# 💫 About Me:
-👩‍💻 Senior Software Engineer with expertise in full-stack JavaScript/TypeScript development and AWS cloud architecture.<br>🔧 Tech Stack: TypeScript, NestJS, Next.js, AWS, Prisma, Redis, and various third-party API integrations (Stripe, Contentful, webhooks galore).<br>🎓 Certifications: AWS Solutions Architect (Associate & Professional), Udacity Agentic AI Nanodegree, Udacity Data Analyst Nanodegree.<br>👯 I'm looking to collaborate: on Agentic AI projects, LLM orchestration tools, and autonomous workflow systems<br>🌱 I'm currently learning: Agentic AI frameworks (LangGraph.js, RAG systems) — recently completed Udacity's Agentic AI Nanodegree<br>💬 Ask me about: AWS architecture, TypeScript, NestJS, Next.js, or making the jump from software engineering to AI development<br>⚡ Fun fact: I paint wildlife & landscapes with acrylics 🎨 and my first career was in geological engineering!<br>📍 Based in Europe
+![Header](assets/header.svg)
 
+<div align="center">
+  <img src="https://github.com/paulina-grunwald.png" width="150" height="150" style="border-radius: 50%;" alt="Paulina's Photo">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulinagrunwald) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulina.grunwald@gmail.com) 
+  # Hi there, I'm Paulina! 👋
+</div>
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=plastic&logo=storybook&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=plastic&logo=jest&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=plastic&logo=nuxt.js&logoColor=#00DC82) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paulina-grunwald&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=paulina-grunwald&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-grunwald&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a **Senior Software Engineer** based in Europe.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=paulina-grunwald&theme=prussian&no-frame=true&no-bg=true&margin-w=4)
+- 👩‍💻 **Expertise**: Full-stack JavaScript/TypeScript development and AWS cloud architecture.
+- 🔧 **Tech Stack**: TypeScript, NestJS, Next.js, AWS, Prisma, Redis, and various third-party API integrations (Stripe, Contentful).
+- 👯 **Looking to collaborate on**: Agentic AI projects, LLM orchestration tools, and autonomous workflow systems.
+- 🌱 **Currently learning**: Agentic AI frameworks (LangGraph.js, RAG systems).
+- 💬 **Ask me about**: AWS architecture, TypeScript, NestJS, Next.js, or making the jump from software engineering to AI development.
+- ⚡ **Fun fact**: I paint wildlife & landscapes with acrylics 🎨 and my first career was in geological engineering!
+
+![Tech Stack](assets/header_tech.svg)
+
+### Languages
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paulina-grunwald&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Agentic AI Focus](assets/header_ai.svg)
+
+> **Recently completed Udacity's Agentic AI Nanodegree** 🎓
+
+I am deeply focused on mastering **Agentic AI**, building systems where LLMs can reason, plan, and execute tasks autonomously. My current learning path includes:
+- **Frameworks**: LangGraph.js, LangChain, AutoGen
+- **Concepts**: RAG Systems, Tool Use, Multi-Agent Orchestration
+- **Goal**: To bridge the gap between traditional software engineering and autonomous AI agents.
+
+---
+
+![Certifications](assets/header_certs.svg)
+
+<div align="center">
+
+![AWS Certified AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Certified Solutions Architect - Professional](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Professional-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Udacity Agentic AI Nanodegree](https://img.shields.io/badge/Udacity-Agentic%20AI%20Nanodegree-01B1D7?style=for-the-badge&logo=udacity&logoColor=white)
+![Udacity Data Analyst Nanodegree](https://img.shields.io/badge/Udacity-Data%20Analyst%20Nanodegree-01B1D7?style=for-the-badge&logo=udacity&logoColor=white)
+
+</div>
+
+---
+
+![GitHub Stats](assets/header_stats.svg)
+
+<div align="center">
+
+[![Paulina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulina-grunwald&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-grunwald&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulina-grunwald&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+![Personal Interests](assets/header_interests.svg)
+
+- 🎨 **Artist**: I'm an intermediate-level acrylic painter, focusing on wildlife and landscapes.
+- 🧘‍♀️ **Wellness**: Passionate about biohacking, supplements, and wellness optimization.
+- 🌍 **Multilingual**: I speak multiple languages and love connecting with people from different cultures.
+
+---
+
+> "The best way to predict the future is to invent it." — **Alan Kay**
+
+---
+
+![Connect with Me](assets/header_connect.svg)
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulinagrunwald)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulina.grunwald@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=paulina-grunwald&color=7900FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<!--
+Proudly updated by Antigravity
+-->
