@@ -81,7 +81,7 @@
   </text>
 
   <!-- Blinking Cursor -->
-  <text x="700" y="100" class="cursor">_</text>
+  <text x="620" y="100" class="cursor">_</text>
 
   <!-- Subtitle -->
   <text x="50" y="150" class="sub-text">
