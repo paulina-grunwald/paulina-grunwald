@@ -1,12 +1,8 @@
 ![Header](assets/header.svg)
 
-<div align="center">
-  <img src="https://github.com/paulina-grunwald.png" width="150" height="150" style="border-radius: 50%;" alt="Paulina's Photo">
 
-  # Hi there, I'm Paulina! 👋
-</div>
 
-I'm a **Senior Software Engineer** based in Europe.
+I'm a **Senior Software Engineer** based in Europe 🇪🇺.
 
 - 👩‍💻 **Expertise**: Full-stack JavaScript/TypeScript development and AWS cloud architecture.
 - 🔧 **Tech Stack**: TypeScript, NestJS, Next.js, AWS, Prisma, Redis, and various third-party API integrations (Stripe, Contentful).
@@ -29,6 +25,7 @@ I'm a **Senior Software Engineer** based in Europe.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -44,7 +41,7 @@ I'm a **Senior Software Engineer** based in Europe.
 > **Recently completed Udacity's Agentic AI Nanodegree** 🎓
 
 I am deeply focused on mastering **Agentic AI**, building systems where LLMs can reason, plan, and execute tasks autonomously. My current learning path includes:
-- **Frameworks**: LangGraph.js, LangChain, AutoGen
+- **Frameworks**: LangChain, LangGraph.js, AutoGen
 - **Concepts**: RAG Systems, Tool Use, Multi-Agent Orchestration
 - **Goal**: To bridge the gap between traditional software engineering and autonomous AI agents.
 
@@ -68,11 +65,18 @@ I am deeply focused on mastering **Agentic AI**, building systems where LLMs can
 
 <div align="center">
 
-[![Paulina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulina-grunwald&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=paulina-grunwald&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" alt="Paulina's GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-grunwald&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulina-grunwald&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=paulina-grunwald&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paulina-grunwald&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
@@ -80,13 +84,13 @@ I am deeply focused on mastering **Agentic AI**, building systems where LLMs can
 
 ![Personal Interests](assets/header_interests.svg)
 
-- 🎨 **Artist**: I'm an intermediate-level acrylic painter, focusing on wildlife and landscapes.
+- 🎨 **Artist**: I'm an acrylic painter, focusing on wildlife and landscapes.
 - 🧘‍♀️ **Wellness**: Passionate about biohacking, supplements, and wellness optimization.
 - 🌍 **Multilingual**: I speak multiple languages and love connecting with people from different cultures.
 
 ---
 
-> "The best way to predict the future is to invent it." — **Alan Kay**
+> "The gap between 'stuck' and 'solved' is usually one more search, one more coffee, one more try."
 
 ---
 
@@ -97,12 +101,4 @@ I am deeply focused on mastering **Agentic AI**, building systems where LLMs can
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulinagrunwald)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulina.grunwald@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=paulina-grunwald&color=7900FF&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
-
-<!--
-Proudly updated by Antigravity
--->
