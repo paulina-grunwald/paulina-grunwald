@@ -70,15 +70,11 @@ I am deeply focused on mastering **Agentic AI**, building systems where LLMs can
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats-one-bice.vercel.app/api?username=paulina-grunwald&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Paulina's GitHub Stats" />
-</td>
-<td align="center" width="50%">
 <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=paulina-grunwald&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com/?user=paulina-grunwald&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
